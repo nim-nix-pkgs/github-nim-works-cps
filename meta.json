@@ -6,7 +6,9 @@
   "tags": [],
   "url": "https://github.com/nim-works/cps",
   "refs": [
-    "fatal: unable to access 'https://github.com/nim-works/cps/': Could not resolve host: github.com",
+    "error: RPC failed; curl 56 OpenSSL SSL_read: Connection timed out, errno 110",
+    "error: 12 bytes of body are still expected",
+    "fatal: expected flush after ref listing",
     ""
   ],
   "heads": []
