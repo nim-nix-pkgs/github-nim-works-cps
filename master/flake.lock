@@ -42,11 +42,11 @@
     "src-github-nim-works-cps-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1649714763,
-        "narHash": "sha256-WT1ZctglSybW63Vypow6LVW4pCilNfQroIr42eKfB+k=",
+        "lastModified": 1653009863,
+        "narHash": "sha256-qo10VPaytxLpA4mwR44u1HARrBArT5YUalXGYOj2PmA=",
         "owner": "nim-works",
         "repo": "cps",
-        "rev": "6cee9ba304a09764a910d81cc3f1f3678a242c5e",
+        "rev": "d99b1fe65113af518e59ac94690298192ea149aa",
         "type": "github"
       },
       "original": {
