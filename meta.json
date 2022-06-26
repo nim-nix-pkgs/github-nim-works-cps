@@ -448,7 +448,6 @@
   "url": "https://github.com/nim-works/cps",
   "refs": [
     "refs/heads/coro",
-    "refs/heads/dependabot/github_actions/crazy-max/ghaction-github-pages-3.0.0",
     "refs/heads/env-childless",
     "refs/heads/leorize/ex",
     "refs/heads/leorize/except-refactoring",
