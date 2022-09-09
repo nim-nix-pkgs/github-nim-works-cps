@@ -440,6 +440,14 @@
       "description": "Continuation-Passing Style for Nim link",
       "license": "MIT",
       "name": "github-nim-works-cps",
+      "ref": "refs/tags/0.6.1",
+      "url": "https://github.com/nim-works/cps",
+      "version": "0_6_1"
+    },
+    {
+      "description": "Continuation-Passing Style for Nim link",
+      "license": "MIT",
+      "name": "github-nim-works-cps",
       "ref": "refs/tags/rfc",
       "url": "https://github.com/nim-works/cps",
       "version": "rfc"
@@ -522,6 +530,7 @@
     "refs/tags/0.4.5",
     "refs/tags/0.5.0",
     "refs/tags/0.6.0",
+    "refs/tags/0.6.1",
     "refs/tags/rfc",
     ""
   ],
