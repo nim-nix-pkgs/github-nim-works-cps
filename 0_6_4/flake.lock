@@ -204,22 +204,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-github-nim-works-cps-master": "src-github-nim-works-cps-master"
+        "src-github-nim-works-cps-0_6_4": "src-github-nim-works-cps-0_6_4"
       }
     },
-    "src-github-nim-works-cps-master": {
+    "src-github-nim-works-cps-0_6_4": {
       "flake": false,
       "locked": {
-        "lastModified": 1667395270,
-        "narHash": "sha256-jJzTS2gZSz+hVHNSIov1TWDd63o/MRB9U8Y5LqP6hTg=",
+        "lastModified": 1667334185,
+        "narHash": "sha256-0JC9nDwiLhyxBC5N6HU3bnx70H0jikX731j7WgI4ajo=",
         "owner": "nim-works",
         "repo": "cps",
-        "rev": "c2785ed946ae4aa5d6dd9b52a01e2283689c53b0",
+        "rev": "452b2b83ed5a3381147e4676d72e036c6a5eed8b",
         "type": "github"
       },
       "original": {
         "owner": "nim-works",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.6.4",
         "repo": "cps",
         "type": "github"
       }
