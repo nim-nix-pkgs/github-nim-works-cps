@@ -471,6 +471,14 @@
   inputs."github-nim-works-cps-0_6_3".inputs.nixpkgs.follows = "nixpkgs";
   inputs."github-nim-works-cps-0_6_3".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
+  inputs."github-nim-works-cps-0_6_4".dir   = "0_6_4";
+  inputs."github-nim-works-cps-0_6_4".owner = "nim-nix-pkgs";
+  inputs."github-nim-works-cps-0_6_4".ref   = "master";
+  inputs."github-nim-works-cps-0_6_4".repo  = "github-nim-works-cps";
+  inputs."github-nim-works-cps-0_6_4".type  = "github";
+  inputs."github-nim-works-cps-0_6_4".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."github-nim-works-cps-0_6_4".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
   inputs."github-nim-works-cps-rfc".dir   = "rfc";
   inputs."github-nim-works-cps-rfc".owner = "nim-nix-pkgs";
   inputs."github-nim-works-cps-rfc".ref   = "master";
