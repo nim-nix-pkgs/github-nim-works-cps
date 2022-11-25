@@ -472,6 +472,30 @@
       "description": "Continuation-Passing Style for Nim link",
       "license": "MIT",
       "name": "github-nim-works-cps",
+      "ref": "refs/tags/0.6.5",
+      "url": "https://github.com/nim-works/cps",
+      "version": "0_6_5"
+    },
+    {
+      "description": "Continuation-Passing Style for Nim link",
+      "license": "MIT",
+      "name": "github-nim-works-cps",
+      "ref": "refs/tags/0.6.6",
+      "url": "https://github.com/nim-works/cps",
+      "version": "0_6_6"
+    },
+    {
+      "description": "Continuation-Passing Style for Nim link",
+      "license": "MIT",
+      "name": "github-nim-works-cps",
+      "ref": "refs/tags/0.6.7",
+      "url": "https://github.com/nim-works/cps",
+      "version": "0_6_7"
+    },
+    {
+      "description": "Continuation-Passing Style for Nim link",
+      "license": "MIT",
+      "name": "github-nim-works-cps",
       "ref": "refs/tags/rfc",
       "url": "https://github.com/nim-works/cps",
       "version": "rfc"
@@ -558,6 +582,9 @@
     "refs/tags/0.6.2",
     "refs/tags/0.6.3",
     "refs/tags/0.6.4",
+    "refs/tags/0.6.5",
+    "refs/tags/0.6.6",
+    "refs/tags/0.6.7",
     "refs/tags/rfc",
     ""
   ],
